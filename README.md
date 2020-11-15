@@ -9,7 +9,7 @@ As Uncle Iroh from ATLA puts it:
 
 > “It is important to draw wisdom from many different places. If you take it from only one place, it becomes rigid and stale.”
 
-**And yes, Apurba is a douche for talking in third person. :man_shrugging:**
+And yes, Apurba is a douche for talking in third person. :man_shrugging:
   <details>
   <summary><b>:closed_book: Books I'm currently reading...</b><hr>
     </summary>
