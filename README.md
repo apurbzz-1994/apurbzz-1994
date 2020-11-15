@@ -8,3 +8,7 @@ Apurba is passionate about all things `multidisciplinary` and firmly believes in
 As Uncle Iroh from ATLA puts it:
 
 > “It is important to draw wisdom from many different places. If you take it from only one place, it becomes rigid and stale.”
+
+**And yes, Apurba is a douche for talking in third person. :man_shrugging:**
+<p align = "left">This goes to left<p>
+<p align = "right">This goes to right<p>
