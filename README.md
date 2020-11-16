@@ -1,7 +1,6 @@
-### Apurba (:neckbeard:/👨🏽‍💻 /🎓)
----
+## Apurba (:alien:/👨🏽‍💻 /🎓)
 
-Apurba is a developer and academic based in `Melbourne, Australia`. He currently devotes his time towards `teaching` and building `pixel-perfect` contraptions for the web. While Apurba thrives on employing `JavaScript` to create miscellaneous applications, be It a web app, computational art or anything in between, he understands the role of `psychology-driven human centred design` in manifesting UI/UX that `empathises` with the user.
+Apurba is a `developer` and `academic` based in `Melbourne, Australia`. He currently devotes his time towards `teaching` and building `pixel-perfect` contraptions for the web. While Apurba thrives on employing `JavaScript` to create miscellaneous applications, be It a web app, computational art or anything in between, he understands the role of `psychology-driven human centred design` in manifesting UI/UX that `empathises` with the user.
 
 Apurba is passionate about all things `multidisciplinary` and firmly believes in drawing wisdom from different avenues to solve problems. 
 
@@ -10,6 +9,7 @@ As Uncle Iroh from ATLA puts it:
 > “It is important to draw wisdom from many different places. If you take it from only one place, it becomes rigid and stale.”
 
 And yes, Apurba is a douche for talking in third person. :man_shrugging:
+<hr>
   <details>
   <summary><b>:closed_book: Books I'm currently reading...</b><hr>
     </summary>
