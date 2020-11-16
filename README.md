@@ -41,7 +41,7 @@ And yes, Apurba is a douche for talking in third person. :man_shrugging:
     </tr>
      <tr>
       <td>Speech Graffiti</td>
-      <td>An application that generates graffiti style typography of whatever you're speaking.</td>
+      <td>An application that generates graffiti style typography of whatever you're speaking as you speak.</td>
       <td>Ideation</td>
     </tr>
   </table>
