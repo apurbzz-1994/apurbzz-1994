@@ -46,4 +46,9 @@ And yes, Apurba is a douche for talking in third person. :man_shrugging:
     </tr>
   </table>
   </details>
+  
+  <p align ='center'>
+    <img src = 'https://github.com/bradleybossard/slack-animated-emoji/blob/master/gifs/keyboard_shark.gif'></img>
+  </p>
+  <p align = 'center'>Thanks for visiting!</p>
 
