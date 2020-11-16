@@ -11,7 +11,7 @@ As Uncle Iroh from ATLA puts it:
 And yes, Apurba is a douche for talking in third person. :man_shrugging:
 <hr>
   <details>
-  <summary><b>:closed_book: Books I'm currently reading...</b><hr>
+  <summary><b>:closed_book: Books I'm currently reading...</b>
     </summary>
   <table>
     <th>Book</th>
@@ -27,7 +27,7 @@ And yes, Apurba is a douche for talking in third person. :man_shrugging:
   </table>
   </details>
   <details>
-  <summary><b>:weight_lifting_man: Stuff I'm working on...</b><hr>
+  <summary><b>:weight_lifting_man: Stuff I'm working on...</b>
     </summary>
   <table>
     <th>Stuff</th>
