@@ -1,54 +1,5 @@
-## Apurba (:alien:/👨🏽‍💻 /🎓)
+Accomplished developer, academic and Monash Uni IT graduate currently building, maintaining and automating in the higher education sector. 
 
-Apurba is a `developer` and `academic` based in `Melbourne, Australia`. He currently devotes his time towards `teaching` and building `pixel-perfect` contraptions for the web. While Apurba thrives on employing `JavaScript` to create miscellaneous applications, be It a web app, computational art or anything in between, he understands the role of `psychology-driven human centred design` in manifesting UI/UX that `empathises` with the user.
+![cat vibing](/git_assets/cat_vibe.jpg)
 
-Apurba is passionate about all things `multidisciplinary` and firmly believes in drawing wisdom from different avenues to solve problems. 
-
-As Uncle Iroh from ATLA puts it:
-
-> “It is important to draw wisdom from many different places. If you take it from only one place, it becomes rigid and stale.”
-
-And yes, Apurba is a douche for talking in third person. :man_shrugging:
-<hr>
-  <details>
-  <summary><b>:closed_book: Books I'm currently reading...</b>
-    </summary>
-  <table>
-    <th>Book</th>
-    <th>Comment</th>
-    <tr>
-      <td>Design for Hackers - Reverse Engineering Beauty</td>
-      <td>Reading</td>
-    </tr>
-    <tr>
-      <td>Design Thinking for the Greater Good - Innovation in the Social Sector</td>
-      <td>On hold for now</td>
-    </tr>
-  </table>
-  </details>
-  <details>
-  <summary><b>:weight_lifting_man: Stuff I'm working on...</b>
-    </summary>
-  <table>
-    <th>Stuff</th>
-    <th>Description</th>
-    <th>Progress</th>
-    <tr>
-      <td>Add it to the list - The Webapp</td>
-      <td>Inspired by a YouTube comedy sketch by Julie Nolke, this vanilla JS application helps you organize and keep track of all
-      the recommendations your friends keep imposing on you.</td>
-      <td>Ongoing</td>
-    </tr>
-     <tr>
-      <td>Speech Graffiti</td>
-      <td>An application that generates graffiti style typography of whatever you're speaking as you speak.</td>
-      <td>Ideation</td>
-    </tr>
-  </table>
-  </details>
-  
-  <p align ='center'>
-    <img src = 'https://github.com/bradleybossard/slack-animated-emoji/blob/master/gifs/keyboard_shark.gif'></img>
-  </p>
-  <p align = 'center'>Thanks for visiting!</p>
-
+<a href="https://www.freepik.com/free-vector/simple-vibing-cat-square-meme_58459053.htm#query=funny%20cat%20memes&position=4&from_view=keyword&track=ais_hybrid&uuid=25491b4c-935d-4ccc-ac22-7669f90cf9ae">Image by Wepik</a> on Freepik
